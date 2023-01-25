@@ -289,9 +289,9 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/umut/Github/learn-git-milestones/
 2d | Link to `commit #3 from CLI` | <a href ="https://github.com/UmutTurk24/learn-git-milestones/commit/94141e9e763b8705d69ec6c5f7ee4d063f0d1d96">commit #3 from CLI</a>
 2e | 3rd Favorite emoji | 🙃
-2f | Link to `commit #4 from VS Code` |
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+2f | Link to `commit #4 from VS Code` | <a href = "https://github.com/UmutTurk24/learn-git-milestones/commit/39cb0c2e0b8efa48571acdb5acbbabb5a8009270">commit #4 from VS Code</a>
+3a | Link to `my-awesome-project` github.com repo page | https://github.com/UmutTurk24/my-awesome-project
+4a | Link to `my-awesome-project` github.io "project site" | https://umutturk24.github.io/my-awesome-project/
 
 
 

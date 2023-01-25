@@ -287,8 +287,8 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 😊
 2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/UmutTurk24/learn-git-milestones/commit/3a728887173e208501d1f6d7d9d20955eadb238e">commit #2 from Github Desktop</a>
 2c | Full path to your working directory | /Users/umut/Github/learn-git-milestones/
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2d | Link to `commit #3 from CLI` | <a href ="https://github.com/UmutTurk24/learn-git-milestones/commit/94141e9e763b8705d69ec6c5f7ee4d063f0d1d96">commit #3 from CLI</a>
+2e | 3rd Favorite emoji | 🙃
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
